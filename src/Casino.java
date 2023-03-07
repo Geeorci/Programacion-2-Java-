@@ -48,5 +48,10 @@ public class Casino {
         }
     }
 
-    public class Passworc{} 
+    public class Passworc{
+        String user_pass;
+        int card_vcc;
+        String number_card;
+        int id;
+    } 
 }
